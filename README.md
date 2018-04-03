@@ -1,20 +1,19 @@
 # LOVEGRAM - Instagram Login :bomb:
 
-Install
+Installation requirement
 --
-
-- First step
 
 ```
 1. pkg install git
 2. pkg install php
+3. git clone https://github.com/dandyraka/lovegram.git
 ```
 
-- Second step
+How to run
+--
 ```
-1. git clone https://github.com/dandyraka/lovegram.git
-2. cd lovegram
-3. php login.php
+1. cd lovegram
+2. php login.php
 ```
 
 Input your instagram Username & Password.
