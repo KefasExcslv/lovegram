@@ -1,8 +1,9 @@
 # LOVEGRAM - Instagram Login :bomb:
 
+Run on **Termux for Android** or whatever else
+
 Installation requirement
 --
-
 ```
 1. pkg install git
 2. pkg install php
@@ -16,9 +17,9 @@ How to run
 2. php login.php
 ```
 
-Input your instagram Username & Password.
+Input your instagram **Username & Password**.
 
-Then copy the TOKEN to Lovegram Login page
+Then copy the **TOKEN** to **Lovegram Login page**.
 
 ![alt text](example.jpg)
 
